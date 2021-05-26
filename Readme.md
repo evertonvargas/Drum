@@ -2,6 +2,8 @@
 
 A contrução desse site permitiu entender como funciona e manipula-se o DOM com Javascript.
 
+Link do site: https://evertonvargas.github.io/Drum/index.html
+
 >Ao tocar em cima de determinado instrumento
 o som respectivo é emitido. Simulando a
 batida da baqueta em uma bateria.
